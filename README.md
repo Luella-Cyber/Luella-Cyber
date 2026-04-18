@@ -1,16 +1,31 @@
-## Hi there 👋
+## Hey there 😊 I'm Luella!
 
-<!--
-**Luella-Cyber/Luella-Cyber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Analyst  
+📚💻 Learning through hands-on labs  
+🔗 [LinkedIn](https://www.linkedin.com/in/luellatracyhenderson)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+I’m focused on building real-world cybersecurity skills through hands-on labs and practical learning.  
+Currently developing experience in security monitoring, vulnerability management, and cloud security.
+
+---
+
+## ⚙️ Skills & Tools
+
+**Security Operations**
+- Security Monitoring & Incident Response  
+- Threat Detection & Analysis  
+
+**SIEM & Endpoint Security**
+- Microsoft Sentinel  
+- Microsoft Defender for Endpoint  
+- KQL (Kusto Query Language)  
+
+**Vulnerability Management**
+- Tenable  
+
+**Cloud**
+- Azure Cloud Fundamentals  
