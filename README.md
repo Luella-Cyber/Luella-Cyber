@@ -1,31 +1,56 @@
-## Hey there 😊 I'm Luella!
+# Hey there 😊 I'm Luella!
 
-🔐 Cybersecurity Analyst  
-📚💻 Learning through hands-on labs  
+🔐 Security Analyst in Training  
+📚 Building real-world skills through hands-on labs & projects  
+🎓 B.S. Computer Information Systems, Cybersecurity Programming — DeVry University  
 🔗 [LinkedIn](https://www.linkedin.com/in/luellatracyhenderson)
 
 ---
 
 ## 🧠 About Me
 
-I’m focused on building real-world cybersecurity skills through hands-on labs and practical learning.  
-Currently developing experience in security monitoring, vulnerability management, and cloud security.
+I'm a cybersecurity graduate actively transitioning into a security analyst role. 
+My focus is on SOC operations, threat detection, and vulnerability management —
+and I'm building a hands-on portfolio to back it up.
+
+---
+
+## 🔨 Currently Building
+
+| Project | Description | Status |
+|---|---|---|
+| Malware Analysis Sandbox | Isolated environment to safely detonate and analyze malware samples | 🔜 Coming Soon |
+| Phishing Email Detector | Tool to analyze email headers and content for phishing indicators | 🔜 Coming Soon |
+| Network Traffic Analyzer | Python-based tool to capture and flag suspicious network activity | 🔜 Coming Soon |
+
+---
+
+## 📜 Certifications
+
+- 🟡 **CompTIA Security+** *(In Progress)*
 
 ---
 
 ## ⚙️ Skills & Tools
 
 **Security Operations**
-- Security Monitoring & Incident Response  
-- Threat Detection & Analysis  
+- Security Monitoring & Incident Response
+- Threat Detection & Analysis
 
 **SIEM & Endpoint Security**
-- Microsoft Sentinel  
-- Microsoft Defender for Endpoint  
-- KQL (Kusto Query Language)  
+- Microsoft Sentinel
+- Microsoft Defender for Endpoint
+- KQL (Kusto Query Language)
 
 **Vulnerability Management**
-- Tenable  
+- Tenable
 
 **Cloud**
-- Azure Cloud Fundamentals  
+- Azure Cloud Fundamentals
+
+---
+
+## 📊 GitHub Stats
+
+![Luella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luella-Cyber&show_icons=true&theme=dark)
+
