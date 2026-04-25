@@ -9,9 +9,7 @@
 
 ## 🧠 About Me
 
-I'm a cybersecurity graduate actively transitioning into a security analyst role. 
-My focus is on SOC operations, threat detection, and vulnerability management —
-and I'm building a hands-on portfolio to back it up.
+Cybersecurity graduate with hands-on experience in SOC operations, threat detection, and vulnerability management.
 
 ---
 
@@ -53,4 +51,5 @@ and I'm building a hands-on portfolio to back it up.
 ## 📊 GitHub Stats
 
 ![Luella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luella-Cyber&show_icons=true&theme=dark)
+
 
