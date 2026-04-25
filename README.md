@@ -23,7 +23,7 @@ Cybersecurity graduate with hands-on experience in SOC operations, threat detect
 
 ---
 
-## 📜 Certifications
+## 📋 Certifications
 
 - 🟡 **CompTIA Security+** *(In Progress)*
 
