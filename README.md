@@ -1,8 +1,8 @@
 # Hey there 😊 I'm Luella!
 
-🔐 Security Analyst in Training  
-📚 Building real-world skills through hands-on labs & projects  
-🎓 B.S. Computer Information Systems, Cybersecurity Programming — DeVry University  
+🔒 Security Analyst in Training
+🌱 Building real-world skills through hands-on labs & projects
+🎓 B.S. Computer Information Systems, Cybersecurity Programming — DeVry University
 🔗 [LinkedIn](https://www.linkedin.com/in/luellatracyhenderson)
 
 ---
@@ -13,16 +13,13 @@ Cybersecurity graduate with hands-on experience in SOC operations, threat detect
 
 ---
 
-## 🔨 Currently Building
+## 🔧 Currently Building
 
 | Project | Description | Status |
 |---|---|---|
-| Malware Analysis Sandbox | Isolated environment to safely detonate and analyze malware samples | ✅ Complete |
+| Malware Analysis Sandbox | [Isolated environment to safely detonate and analyze malware samples](https://github.com/Luella-Cyber/malware-sandbox) | ✅ Complete |
 | Phishing Email Detector | Tool to analyze email headers and content for phishing indicators | 🔜 Coming Soon |
 | Network Traffic Analyzer | Python-based tool to capture and flag suspicious network activity | 🔜 Coming Soon |
-
----
-
 ## 📋 Certifications
 
 - 🟡 **CompTIA Security+** *(In Progress)*
