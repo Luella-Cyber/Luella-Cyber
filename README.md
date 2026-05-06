@@ -9,11 +9,13 @@
 
 ## 🧠 About Me
 
-Cybersecurity graduate with hands-on experience in SOC operations, threat detection, and vulnerability management.
+I'm a cybersecurity graduate transitioning into GRC — targeting Analyst and IT Security Specialist roles. I have a B.S. in Computer Information Systems with a concentration in Cybersecurity Programming, and I'm building a hands-on portfolio of real security projects to complement my compliance and risk management skills.
 
 ---
 
 ## 🔧 Currently Building
+
+> 💡 Each project builds hands-on understanding of security controls required by GRC frameworks like NIST 800-53 and ISO 27001 — bridging technical implementation and compliance documentation.
 
 | Project | Description | Status |
 |---|---|---|
