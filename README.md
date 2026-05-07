@@ -1,6 +1,6 @@
 # Hey there, I'm Luella 👋🔐
 
-### Cybersecurity Graduate | Aspiring GRC Analyst | Information Security Analyst | IT Security Specialist
+### Cybersecurity Graduate | Breaking into GRC & Information Security
 
 ---
 
@@ -37,18 +37,18 @@ I'm a cybersecurity professional transitioning into **Governance, Risk & Complia
 ## 🛡️ Skills & Tools
 
 **Security & Compliance**
-`GRC` `Risk Assessment` `Security Policy` `NIST Framework` `ISO 27001` `Incident Response.`
+`GRC` `Risk Assessment` `Security Policy` `NIST Framework` `ISO 27001` `Incident Response`
 
 **Security Operations**
 `Security Monitoring` `Threat Detection & Analysis` `Incident Response`
 
-**SIEM & Endpoint Security ** Microsoft Sentinel Microsoft Defender for Endpoint, KQL (Kusto Query Language).
+**SIEM & Endpoint Security**
+`Microsoft Sentinel` `Microsoft Defender for Endpoint` `KQL (Kusto Query Language)`
 
 **Vulnerability Management**
 `Tenable/Nessus`
 
-**Cloud & Infrastructure**
-`Microsoft Azure` `Cloud Security`
+**Cloud & Infrastructure ** Microsoft Azure Cloud Security.
 
 **Technical**
 `Python` `Network Analysis` `Malware Analysis` `Vulnerability Assessment` `Linux.`
@@ -75,5 +75,3 @@ I'm a cybersecurity professional transitioning into **Governance, Risk & Complia
 > *"Compliance is not security, but security enables compliance."*
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=Luella-Cyber&color=00ff88&style=flat)
-
-
