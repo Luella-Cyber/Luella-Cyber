@@ -1,6 +1,6 @@
 # Hey there, I'm Luella 👋🔐
 
-### Cybersecurity Graduate | Breaking into GRC & Information Security
+### Computer Information Systems Graduate| Breaking into GRC & Information Security
 
 ---
 
