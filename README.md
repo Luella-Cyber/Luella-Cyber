@@ -6,7 +6,8 @@
 
 ## 🧠 About Me
 
-I'm a cybersecurity professional transitioning into **Governance, Risk & Compliance (GRC)** and **Information Security** roles, backed by hands-on project experience and a strong academic foundation.
+I'm a cybersecurity graduate actively breaking into **Governance, Risk & Compliance (GRC)** and **Information Security**.
+
 
 - 🎓 **B.S. Computer Information Systems – Cybersecurity Concentration** | DeVry University
 - 🔐 Currently working in **security operations** as a Security Dispatcher at Triple Canopy
