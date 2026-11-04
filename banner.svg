@@ -10,8 +10,11 @@
       <stop offset="100%" stop-color="#bf3989"/>
     </linearGradient>
   </defs>
-  <text x="0" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="url(#rainbow)">
-    Hey there, I'm Luella 👋
-    <animate attributeName="x" from="-420" to="800" dur="10s" repeatCount="indefinite"/>
-  </text>
+  <g>
+    <animateTransform attributeName="transform" type="translate" from="-520 0" to="800 0" dur="10s" repeatCount="indefinite"/>
+    <text x="0" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="url(#rainbow)" textLength="440" lengthAdjust="spacingAndGlyphs">Hey there, I'm Luella</text>
+    <text x="452" y="62" font-size="40">👋
+      <animateTransform attributeName="transform" type="rotate" values="-15 472 48;15 472 48;-15 472 48" dur="0.8s" repeatCount="indefinite"/>
+    </text>
+  </g>
 </svg>
