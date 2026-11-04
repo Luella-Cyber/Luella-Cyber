@@ -7,7 +7,7 @@
     </linearGradient>
   </defs>
   <g>
-    <animateTransform attributeName="transform" type="translate" values="0 0;225 0;0 0" dur="6s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" from="-620 0" to="112 0" dur="3s" fill="freeze"/>
     <animateTransform attributeName="transform" type="translate" values="0 0;0 -6;0 0" dur="1.2s" additive="sum" repeatCount="indefinite"/>
     <text x="0" y="62" font-size="40">👋
       <animateTransform attributeName="transform" type="rotate" values="-15 20 48;15 20 48;-15 20 48" dur="0.8s" repeatCount="indefinite"/>
