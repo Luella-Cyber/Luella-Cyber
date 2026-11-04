@@ -1,4 +1,4 @@
-# Hey there, I'm Luella 👋🔐
+<p align="center"><img src="banner.svg" alt="Hey there, I'm Luella" width="800"></p>
 
 ### Computer Information Systems Graduate | Breaking into GRC & Information Security
 
