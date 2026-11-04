@@ -17,9 +17,9 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 
 ---
 
-## 🔧 Currently Building
+## 🚀 Portfolio Projects
 
-> 💡 Each project builds hands-on understanding of the security controls required by GRC frameworks such as NIST 800-53 and ISO 27001 — bridging technical implementation and compliance documentation.
+> 💡 A mix of GRC case studies and hands-on technical projects, built to connect security controls to compliance requirements such as NIST CSF, ISO 27001, and HIPAA.
 
 | Project                                                                     | Description                                                         | Status        |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------|---------------|
