@@ -43,9 +43,12 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 ![HIPAA](https://img.shields.io/badge/HIPAA-Security%20Rule-2E7D32?style=for-the-badge)
 ![ISO 27001](https://img.shields.io/badge/ISO%2027001-studying-6A1B9A?style=for-the-badge)
 ![Security+](https://img.shields.io/badge/Security%2B-in%20progress-C62828?style=for-the-badge)
-## 📋 Certifications
+## 🎓 Education & Certifications
 
-- 🟡 **CompTIA Security+** *(In Progress)*
+| Credential | Issuer | Status |
+|------------|--------|--------|
+| B.S. Computer Information Systems (Cybersecurity Programming concentration) | DeVry University | Completed 2024 |
+| CompTIA Security+ (SY0-701) | CompTIA | In progress |
 
 ---
 
