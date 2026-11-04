@@ -21,11 +21,12 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 
 > 💡 Each project builds hands-on understanding of the security controls required by GRC frameworks such as NIST 800-53 and ISO 27001 — bridging technical implementation and compliance documentation.
 
-| Project | Description | Status |
-|---|---|---|
-| [Malware Analysis Sandbox](https://github.com/Luella-Cyber/malware-sandbox) | Isolated environment to safely detonate and analyze malware samples | ✅ Complete |
-| Phishing Email Detector | Tool to analyze email headers and content for phishing indicators | 🔜 Coming Soon |
-| Network Traffic Analyzer | Python-based tool to capture and flag suspicious network activity | 🔜 Coming Soon |
+| Project                                                                     | Description                                                         | Status        |
+|-----------------------------------------------------------------------------|---------------------------------------------------------------------|---------------|
+| [Malware Analysis Sandbox](https://github.com/Luella-Cyber/malware-sandbox) | Isolated environment to safely detonate and analyze malware samples | ✅ Complete    |
+| [GRC Portfolio](https://github.com/Luella-Cyber/GRC-Portfolio) | Risk assessment, security policies, and control mapping for a real-world organization case study | 🚧 In Progress |
+| Phishing Email Detector                                                     | Tool to analyze email headers and content for phishing indicators   | 🔜 Coming Soon |
+| Network Traffic Analyzer                                                    | Python-based tool to capture and flag suspicious network activity   | 🔜 Coming Soon |
 
 ---
 
