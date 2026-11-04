@@ -27,6 +27,7 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 | [Security Operations GRC Portfolio](https://github.com/Luella-Cyber/security-ops-grc-portfolio) | Risk assessment, policies, and NIST CSF control mapping for a security operations case study | ✅ Complete |
 | [Phishing Email Detector](https://github.com/Luella-Cyber/phishing-email-detector) | Hybrid rule-based and ML tool that scores emails for phishing indicators | ✅ Complete |
 | [Hospital GRC Portfolio](https://github.com/Luella-Cyber/hospital-grc-portfolio) | GRC case study for a hypothetical state hospital: 12-risk register, two policies, and HIPAA and NIST CSF 2.0 control mapping | ✅ Complete |
+| [Network Traffic Analyzer](https://github.com/Luella-Cyber/network-traffic-analyzer) | Python tool that analyzes packet captures and flags port scans, beaconing, DNS tunneling, and clear-text passwords | ✅ Complete |
 
 ## 📋 Certifications
 
