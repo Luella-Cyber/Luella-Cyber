@@ -47,7 +47,7 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 
 | Credential | Issuer | Status |
 |------------|--------|--------|
-| B.S. Computer Information Systems (Cybersecurity Programming concentration) | DeVry University | Completed 2024 |
+| B.S. Computer Information Systems (Cybersecurity Programming concentration) | DeVry University | Completed |
 | CompTIA Security+ (SY0-701) | CompTIA | In progress |
 
 ---
