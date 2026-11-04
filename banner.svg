@@ -1,20 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100" role="img" aria-label="Hey there, I'm Luella">
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100" role="img" aria-label="Hey there, I'm Luella!">
   <defs>
     <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#d1242f"/>
-      <stop offset="17%" stop-color="#bc4c00"/>
-      <stop offset="34%" stop-color="#9a6700"/>
-      <stop offset="51%" stop-color="#1a7f37"/>
-      <stop offset="68%" stop-color="#0969da"/>
-      <stop offset="84%" stop-color="#8250df"/>
-      <stop offset="100%" stop-color="#bf3989"/>
+      <stop offset="0%" stop-color="#bf3989"/>
+      <stop offset="25%" stop-color="#0969da"/>
+      <stop offset="50%" stop-color="#8250df"/>
+      <stop offset="75%" stop-color="#bc4c00"/>
+      <stop offset="100%" stop-color="#d1242f"/>
     </linearGradient>
   </defs>
   <g>
-    <animateTransform attributeName="transform" type="translate" from="-520 0" to="800 0" dur="10s" repeatCount="indefinite"/>
-    <text x="0" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="url(#rainbow)" textLength="440" lengthAdjust="spacingAndGlyphs">Hey there, I'm Luella</text>
-    <text x="452" y="62" font-size="40">👋
-      <animateTransform attributeName="transform" type="rotate" values="-15 472 48;15 472 48;-15 472 48" dur="0.8s" repeatCount="indefinite"/>
+    <animateTransform attributeName="transform" type="translate" from="-620 0" to="800 0" dur="10s" repeatCount="indefinite"/>
+    <text x="0" y="62" font-size="40">👋
+      <animateTransform attributeName="transform" type="rotate" values="-15 20 48;15 20 48;-15 20 48" dur="0.8s" repeatCount="indefinite"/>
+    </text>
+    <text x="56" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="40" font-weight="700" fill="url(#rainbow)" textLength="462" lengthAdjust="spacingAndGlyphs">Hey there, I'm Luella!</text>
+    <text x="530" y="62" font-size="40">👋
+      <animateTransform attributeName="transform" type="rotate" values="15 550 48;-15 550 48;15 550 48" dur="0.8s" repeatCount="indefinite"/>
     </text>
   </g>
 </svg>
