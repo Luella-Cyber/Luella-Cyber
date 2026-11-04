@@ -10,7 +10,7 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 
 
 - 🎓 **B.S. Computer Information Systems – Cybersecurity Concentration** | DeVry University
-- 🔐 Currently working in **security operations** as a Security Dispatcher at Triple Canopy
+- - 🔐 Security professional with experience in security operations, access control, and incident documentation
 - 🛠️ Actively building a cybersecurity portfolio focused on **malware analysis, threat detection, and network security**
 - 📋 Passionate about **risk management, compliance frameworks, and security policy**
 - 🌱 Always learning — currently deepening expertise in **NIST, ISO 27001, and security tooling**
