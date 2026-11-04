@@ -1,8 +1,20 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100" role="img" aria-label="Hey there, I'm Luella!">
   <defs>
     <linearGradient id="rainbow" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#0969da"/>
-      <stop offset="100%" stop-color="#8250df"/>
+      <stop offset="0%" stop-color="#d1242f"/>
+      <stop offset="5%" stop-color="#fb8500"/>
+      <stop offset="10%" stop-color="#1a7f37"/>
+      <stop offset="16%" stop-color="#ff4fa3"/>
+      <stop offset="24%" stop-color="#fb8500"/>
+      <stop offset="32%" stop-color="#0969da"/>
+      <stop offset="40%" stop-color="#ff4fa3"/>
+      <stop offset="50%" stop-color="#fb8500"/>
+      <stop offset="60%" stop-color="#ff4fa3"/>
+      <stop offset="68%" stop-color="#0969da"/>
+      <stop offset="76%" stop-color="#ff4fa3"/>
+      <stop offset="86%" stop-color="#fb8500"/>
+      <stop offset="94%" stop-color="#ff4fa3"/>
+      <stop offset="100%" stop-color="#fb8500"/>
     </linearGradient>
   </defs>
   <g>
