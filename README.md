@@ -28,7 +28,21 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 | [Phishing Email Detector](https://github.com/Luella-Cyber/phishing-email-detector) | Hybrid rule-based and ML tool that scores emails for phishing indicators | ✅ Complete |
 | [Hospital GRC Portfolio](https://github.com/Luella-Cyber/hospital-grc-portfolio) | GRC case study for a hypothetical state hospital: 12-risk register, two policies, and HIPAA and NIST CSF 2.0 control mapping | ✅ Complete |
 | [Network Traffic Analyzer](https://github.com/Luella-Cyber/network-traffic-analyzer) | Python tool that analyzes packet captures and flags port scans, beaconing, DNS tunneling, and clear-text passwords | ✅ Complete |
+## 🧰 Tech & Tooling
 
+**Languages & tools**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Frameworks & compliance**
+
+![NIST CSF](https://img.shields.io/badge/NIST-CSF%202.0-1F4E79?style=for-the-badge)
+![HIPAA](https://img.shields.io/badge/HIPAA-Security%20Rule-2E7D32?style=for-the-badge)
+![ISO 27001](https://img.shields.io/badge/ISO%2027001-studying-6A1B9A?style=for-the-badge)
+![Security+](https://img.shields.io/badge/Security%2B-in%20progress-C62828?style=for-the-badge)
 ## 📋 Certifications
 
 - 🟡 **CompTIA Security+** *(In Progress)*
