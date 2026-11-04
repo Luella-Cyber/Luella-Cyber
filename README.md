@@ -24,8 +24,8 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 | Project                                                                     | Description                                                         | Status        |
 |-----------------------------------------------------------------------------|---------------------------------------------------------------------|---------------|
 | [Malware Analysis Sandbox](https://github.com/Luella-Cyber/malware-sandbox) | Isolated environment to safely detonate and analyze malware samples | ✅ Complete    |
-| [GRC Portfolio](https://github.com/Luella-Cyber/GRC-Portfolio) | Risk assessment, security policies, and control mapping for a real-world organization case study | 🚧 In Progress |
-| Phishing Email Detector                                                     | Tool to analyze email headers and content for phishing indicators   | 🔜 Coming Soon |
+| [GRC Portfolio](https://github.com/Luella-Cyber/GRC-Portfolio) | Risk assessment, policies, and NIST CSF control mapping for a security operations case study | ✅ Complete |
+| [Phishing Email Detector](https://github.com/Luella-Cyber/phishing-email-detector) | Tool to analyze email headers and content for phishing indicators | 🚧 In Progress |
 | Network Traffic Analyzer                                                    | Python-based tool to capture and flag suspicious network activity   | 🔜 Coming Soon |
 
 ---
