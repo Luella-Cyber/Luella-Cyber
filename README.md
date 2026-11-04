@@ -56,16 +56,6 @@ I'm a cybersecurity graduate actively breaking into **Governance, Risk & Complia
 
 
 
----
-
-## 📊 GitHub Stats
-
-![Luella's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Luella-Cyber&show_icons=true&theme=dark&hide_border=true&title_color=00ff88&icon_color=00ff88)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Luella-Cyber&layout=compact&theme=dark&hide_border=true&title_color=00ff88)
-
----
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luellatracyhenderson)
